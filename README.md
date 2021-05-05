@@ -1,6 +1,6 @@
 # Published Proton Radius Results
 
-![Caption]</ScatteringResults.png>
+![Caption](ScatteringResults.png)
 
 ## Running List and Image of published proton radius results:
 
