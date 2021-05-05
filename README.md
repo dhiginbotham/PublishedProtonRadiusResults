@@ -1,8 +1,8 @@
 Published Proton Radius Results
 
-Running List and Image of published proton radius results.
+Running List and Image of published proton radius results:
 
-mylist=np.array([
+Paper, Number, Radius, Uncertainty, Link To Publication
 
 ["Hand 1963",         1,  0.805,  0.011,  "https://doi.org/10.1103/RevModPhys.35.335"],
 
@@ -84,4 +84,3 @@ mylist=np.array([
 
 ["Lin 2021",         39,  0.838,  0.005,  "https://doi.org/10.1016/j.physletb.2021.136254"]
 
-])
