@@ -1,6 +1,6 @@
-#Published Proton Radius Results
+# Published Proton Radius Results
 
-##Running List and Image of published proton radius results:
+## Running List and Image of published proton radius results:
 
 Paper, Number, Radius, Uncertainty, Link To Publication
 
